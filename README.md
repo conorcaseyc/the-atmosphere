@@ -2,7 +2,7 @@
  
 > An explainer video built with 3blue1brown's manim.
 
-[![Watch The Video](video.png)](https://www.youtube.com/watch?v=X9rHrt3XpWg)
+[![Watch The Video](video.png)](https://youtu.be/X9rHrt3XpWg)
 
 This is the source code for the animation that I created for the [AerPrize](http://www.aerprize.com), competition. It was developed with manim, an animation engine for explanatory math videos, created by the YouTuber, [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
 
