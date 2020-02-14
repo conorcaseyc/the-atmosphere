@@ -1,0 +1,10 @@
+python manim.py aerprize.py OpeningScene -p
+python manim.py aerprize.py DefineLayers -p
+python manim.py aerprize.py Layers -p
+python manim.py aerprize.py ISA -p
+python manim.py aerprize.py Derive_ISA_I -p
+python manim.py aerprize.py Derive_ISA_II -p
+python manim.py aerprize.py Derive_ISA_III -p
+python manim.py aerprize.py Pressure -p
+python manim.py aerprize.py Appliciations -p
+python manim.py aerprize.py ClosingScene -p
